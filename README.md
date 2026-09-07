@@ -29,13 +29,6 @@ Este projeto consiste em uma estrutura segura para autenticação e controle de 
 
 ## Como Executar o Projeto
 
-### Pré-requisitos
-
-Certifique-se de ter instalado:
-- [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org/) (v18 ou superior)
-- Gerenciador de pacotes (`npm` ou `yarn`)
-
 ### Passo a Passo
 
 1. **Clonar o repositório:**
